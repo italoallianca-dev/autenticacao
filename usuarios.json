@@ -23,3 +23,10 @@
   "ativo": true,
   "expira": "2025-10-21"
 }
+{
+  "login": "adapted",
+  "senha_hash": "89f2ea74f9bc3b85f56876957cdd988b0d37c48cfae43be82b1ee16b41d83afc",
+  "salt": "16c8928596725bbe",
+  "ativo": true,
+  "expira": "2025-10-21"
+}
