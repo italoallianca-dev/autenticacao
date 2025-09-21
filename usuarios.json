@@ -16,3 +16,10 @@
     }
   ]
 }
+{
+  "login": "italo",
+  "senha_hash": "e0432b917eafce7cf3a51a535a3b941ab622901fba53406371b09ff6c1bbb9cb",
+  "salt": "f62c51c529fcdf90",
+  "ativo": true,
+  "expira": "2025-10-21"
+}
