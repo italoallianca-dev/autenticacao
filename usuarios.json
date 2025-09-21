@@ -1,18 +1,10 @@
 {
   "usuarios": [
     {
-      "login": "italo",
-      "senha_hash": "4f469f6d016c6f5c40f3d9f9db5a8d0b8d4a7c623c48d5d917f1f4731a1e4e23",
-      "salt": "abc12345",
-      "ativo": true,
-      "expira": "2025-10-21"
-    },
-    {
       "login": "teste",
-      "senha_hash": "b74b9a2d29a7b64f9a1c7a3f9e69f3dfdb05eafc76c2c64b45a37d52ecf94f47",
-      "salt": "xyz98765",
-      "ativo": false,
-      "expira": "2025-09-30"
+      "senha": "1234",
+      "expira": "2025-12-31",
+      "ativo": true
     }
   ]
 }
