@@ -1,6 +1,11 @@
-[
-  {
-    "usuario": "At",
-    "senha": "123"
-  }
-]
+{
+  "usuarios": [
+    {
+      "login": "usuario1",
+      "senha_hash": "...",
+      "salt": "...",
+      "expira": "2025-10-20",
+      "ativo": true
+    }
+  ]
+}
