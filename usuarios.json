@@ -20,6 +20,13 @@
             "salt": "cRUh8aAQ",
             "expira": "2025-09-29",
             "ativo": true
+        },
+        {
+            "login": "novo",
+            "senha_hash": "8a546e1d203aff705a168e4aef79af6e4a4ccee7e732785fd503d831df7cb332",
+            "salt": "QEp4psMH",
+            "expira": "2025-10-28",
+            "ativo": true
         }
     ]
 }
