@@ -15,13 +15,6 @@
             "ativo": true
         },
         {
-            "login": "testee",
-            "senha_hash": "06f3c4603440e5f5c608d7d3a79ec6d9035e21b9f0a75d5012d2dbc5e1a8ad12",
-            "salt": "cRUh8aAQ",
-            "expira": "2025-09-29",
-            "ativo": true
-        },
-        {
             "login": "novo",
             "senha_hash": "8a546e1d203aff705a168e4aef79af6e4a4ccee7e732785fd503d831df7cb332",
             "salt": "QEp4psMH",
