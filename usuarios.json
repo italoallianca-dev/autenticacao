@@ -41,6 +41,18 @@
             "salt": "W3VDm8TQ",
             "expira": "2025-11-05",
             "ativo": true
+        },
+        {
+            "login": "NOVO ACESSO",
+            "senha_hash": "11e49c978ab12081957f23f09a6b4a86d3fc1f1df35e4a85d42a1d8cd75f6ba0",
+            "salt": "M1ZnvAAP",
+            "contato": "Claudio, 82988486210, italoallianca@gmail.com",
+            "expira": "2025-11-05",
+            "ativo": true,
+            "aplicativos": [
+                "Automação do SPED",
+                "Automação do MTE"
+            ]
         }
     ]
 }
