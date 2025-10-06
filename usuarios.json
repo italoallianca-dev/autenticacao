@@ -48,6 +48,13 @@
             "salt": "go7bc8PZ",
             "expira": "2025-10-06",
             "ativo": true
+        },
+        {
+            "login": "Teste",
+            "senha_hash": "81a747fa3389ef6de8b2e2d8b4bd092b55b70910616ff94ceae2ad3cacab7b58",
+            "salt": "W3VDm8TQ",
+            "expira": "2025-11-05",
+            "ativo": true
         }
     ]
 }
