@@ -23,9 +23,9 @@
         },
         {
             "login": "AUTOMACAO",
-            "senha_hash": "567fbe6809bbd42f585d68a5efe69b3ac5eb54a85239945a32bdbf8f7017e862",
-            "salt": "WpGCQs9I",
-            "expira": "2025-10-29",
+            "senha_hash": "98160072050f7f70216eb18b0b622ab675cbf739c6d8d21f19430e0603286535",
+            "salt": "nEpiRGJr",
+            "expira": "2025-11-28",
             "ativo": true
         },
         {
