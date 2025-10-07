@@ -53,6 +53,17 @@
                 "Automação do SPED",
                 "Automação do MTE"
             ]
+        },
+        {
+            "login": "NOVOA",
+            "senha_hash": "2439440ef5af58bf08d5b06c3a44ff3bd55d76a2a529d4a5d1aca6a588c180fd",
+            "salt": "c6Z5DyHD",
+            "contato": "A",
+            "expira": "2025-11-05",
+            "ativo": true,
+            "aplicativos": [
+                "Automação do MTE"
+            ]
         }
     ]
 }
