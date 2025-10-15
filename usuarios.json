@@ -64,6 +64,13 @@
             "aplicativos": [
                 "Automação do MTE"
             ]
+        },
+        {
+            "login": "TESTE",
+            "senha_hash": "42ad1f906ef671d3078a1ec58f031d119443f1aab09b5cc0cf4b1eb60b7a5c0e",
+            "salt": "RkVF5QC8",
+            "expira": "2025-11-13",
+            "ativo": true
         }
     ]
 }
