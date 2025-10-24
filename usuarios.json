@@ -40,7 +40,7 @@
             "senha_hash": "c5198d4343fbc7311e48ea260cf9ec6dc4f520f6b26738d3fb1a9fd322f47abe",
             "salt": "GmKRsEkB",
             "expira": "2025-10-27",
-            "ativo": true
+            "ativo": false
         },
         {
             "login": "NOVO ACESSO",
