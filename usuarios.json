@@ -37,10 +37,10 @@
         },
         {
             "login": "teste",
-            "senha_hash": "c5198d4343fbc7311e48ea260cf9ec6dc4f520f6b26738d3fb1a9fd322f47abe",
-            "salt": "GmKRsEkB",
+            "senha_hash": "2b93cabdff4e289fd4b233a09e9851a1538e1942376764bde55d3b282078ed4f",
+            "salt": "G3r3X9IY",
             "expira": "2025-10-27",
-            "ativo": false
+            "ativo": true
         },
         {
             "login": "NOVO ACESSO",
