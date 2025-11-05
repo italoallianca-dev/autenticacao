@@ -71,6 +71,13 @@
             "salt": "Yvems0uK",
             "expira": "2025-11-21",
             "ativo": true
+        },
+        {
+            "login": "eder",
+            "senha_hash": "e2bfb0522e2be6f62c6a0ba7bc9c994b58d0a7f7618bcd2b59435f37ee5adb2b",
+            "salt": "WXt3g81y",
+            "expira": "2025-11-07",
+            "ativo": true
         }
     ]
 }
