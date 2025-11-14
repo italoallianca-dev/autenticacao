@@ -4,8 +4,8 @@
             "login": "usuario",
             "senha_hash": "...",
             "salt": "...",
-            "expira": "2025-11-16",
-            "ativo": true
+            "expira": "2025-11-14",
+            "ativo": false
         },
         {
             "login": "italo",
