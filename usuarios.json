@@ -1,10 +1,10 @@
 {
     "usuarios": [
         {
-            "login": "usuario1",
+            "login": "usuario",
             "senha_hash": "...",
             "salt": "...",
-            "expira": "2025-10-20",
+            "expira": "2025-11-16",
             "ativo": true
         },
         {
