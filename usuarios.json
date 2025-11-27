@@ -78,6 +78,13 @@
             "salt": "WXt3g81y",
             "expira": "2025-11-07",
             "ativo": true
+        },
+        {
+            "login": "ERONILDES",
+            "senha_hash": "c4df4a4d2fa54e506937a3e0108d02416e29763491063697f57e9db3ed25e113",
+            "salt": "tBxCPs7f",
+            "expira": "2025-11-29",
+            "ativo": true
         }
     ]
 }
