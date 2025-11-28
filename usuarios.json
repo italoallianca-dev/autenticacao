@@ -67,9 +67,9 @@
         },
         {
             "login": "TESTE",
-            "senha_hash": "0d6ca3fe5cc78800bc0828cd2f9aaae71dcf406b7289bea73937496ff7dbc36c",
-            "salt": "Yvems0uK",
-            "expira": "2025-11-21",
+            "senha_hash": "826b79c5f739a8e5b5bb88ba6779361f6e29ebc0175a3743f607de3136187d3b",
+            "salt": "P6ECZqKC",
+            "expira": "2025-12-03",
             "ativo": true
         },
         {
