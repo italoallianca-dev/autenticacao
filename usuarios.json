@@ -85,6 +85,13 @@
             "salt": "tBxCPs7f",
             "expira": "2025-11-29",
             "ativo": true
+        },
+        {
+            "login": "a",
+            "senha_hash": "03241ccb52749c53fc0cb1dca1c219ad0d958f1ea3a7eef076927d3a3ecbe85f",
+            "salt": "GY9ixI4A",
+            "expira": "2025-12-02",
+            "ativo": true
         }
     ]
 }
