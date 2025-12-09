@@ -92,6 +92,13 @@
             "salt": "GY9ixI4A",
             "expira": "2025-12-02",
             "ativo": true
+        },
+        {
+            "login": "LUCIO",
+            "senha_hash": "e5e6342bed13988abf8c5360914e12b807a18769f4630bfa12d6f7b0f1b3c882",
+            "salt": "nKWhZbam",
+            "expira": "2025-12-14",
+            "ativo": true
         }
     ]
 }
