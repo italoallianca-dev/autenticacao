@@ -32,8 +32,8 @@
             "login": "ALLIANCA",
             "senha_hash": "9621c9a3420b670c402654029724a4a02fefd75e3896aec904f222d42a35049b",
             "salt": "lxHMhKIx",
-            "expira": "2026-02-17",
-            "ativo": false
+            "expira": "2026-03-21",
+            "ativo": true
         },
         {
             "login": "teste",
