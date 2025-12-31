@@ -99,6 +99,13 @@
             "salt": "nKWhZbam",
             "expira": "2025-12-14",
             "ativo": true
+        },
+        {
+            "login": "robustec",
+            "senha_hash": "7787cebd0e13192d95fe1cf6967f2269c7f1d15174a796f1da4dff7330d7e616",
+            "salt": "M4FYTpdz",
+            "expira": "2026-01-29",
+            "ativo": true
         }
     ]
 }
