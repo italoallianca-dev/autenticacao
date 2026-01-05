@@ -101,10 +101,10 @@
             "ativo": true
         },
         {
-            "login": "robustec",
-            "senha_hash": "7787cebd0e13192d95fe1cf6967f2269c7f1d15174a796f1da4dff7330d7e616",
-            "salt": "M4FYTpdz",
-            "expira": "2026-01-29",
+            "login": "ROBUSTEC",
+            "senha_hash": "47867f47689276043ae9ed1fed9ad86ea5b5071107a17e6a96040e4b8058e235",
+            "salt": "9k0xT3Z8",
+            "expira": "2026-01-25",
             "ativo": true
         }
     ]
