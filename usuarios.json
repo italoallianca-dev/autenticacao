@@ -15,10 +15,10 @@
             "ativo": true
         },
         {
-            "login": "novo",
-            "senha_hash": "8a546e1d203aff705a168e4aef79af6e4a4ccee7e732785fd503d831df7cb332",
-            "salt": "QEp4psMH",
-            "expira": "2025-10-28",
+            "login": "NOVO",
+            "senha_hash": "43b6c2e2180637dd15a8357f12428227be45fafdb7f7373aa1e4dc49676d1a87",
+            "salt": "FJmU75yu",
+            "expira": "2026-03-04",
             "ativo": true
         },
         {
