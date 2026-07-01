@@ -113,6 +113,13 @@
             "salt": "UHu1l0Dg",
             "expira": "2026-10-23",
             "ativo": true
+        },
+        {
+            "login": "VINICIUS",
+            "senha_hash": "705c3f7fdc6280889fc22c3836a91b8d2ec7ea8fa65880a2ed5fc8eb374250d5",
+            "salt": "5Z44nSzA",
+            "expira": "2026-07-31",
+            "ativo": true
         }
     ]
 }
